@@ -1,7 +1,7 @@
 Chicago Crime Data Process and Visualization
 This project visualizes Chicago crime data by deriving neighborhood information from geospatial coordinates and analyzing spatial relationships between neighborhoods.
 
-✅ Project Tasks Completed
+Project Tasks Completed
 Neighborhood ID Derivation
 
 Crime data points were matched with official Chicago neighborhood boundaries using a spatial join (geopandas.sjoin).
